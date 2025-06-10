@@ -1,0 +1,16 @@
+Bem vindo ao jogo Ludo!
+Quantos jogadores (de 2 até 4) ?
+O jogo terá 2 jogadores.
+
+Vez do Jogador G: 
+
+O Jogador G tirou 5 no dado.
+O Jogador G passou a jogada.
+
+
+Vez do Jogador Y: 
+
+O Jogador Y tirou 4 no dado.
+O Jogador Y passou a jogada.
+
+

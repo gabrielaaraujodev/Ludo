@@ -1,0 +1,14 @@
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\bin\Debug\net8.0\JogoLudo.exe
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\bin\Debug\net8.0\JogoLudo.deps.json
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\bin\Debug\net8.0\JogoLudo.runtimeconfig.json
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\bin\Debug\net8.0\JogoLudo.dll
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\bin\Debug\net8.0\JogoLudo.pdb
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\JogoLudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\JogoLudo.AssemblyInfoInputs.cache
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\JogoLudo.AssemblyInfo.cs
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\JogoLudo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\JogoLudo.dll
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\refint\JogoLudo.dll
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\JogoLudo.pdb
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\JogoLudo.genruntimeconfig.cache
+C:\Users\Gabriel Araujo (Dev)\source\repos\JogoLudo\JogoLudo\obj\Debug\net8.0\ref\JogoLudo.dll
